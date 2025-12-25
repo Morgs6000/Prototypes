@@ -1,0 +1,15 @@
+D:\Documentos\Github\Prototypes\Debug\bin\Debug\net9.0\Debug.exe
+D:\Documentos\Github\Prototypes\Debug\bin\Debug\net9.0\Debug.deps.json
+D:\Documentos\Github\Prototypes\Debug\bin\Debug\net9.0\Debug.runtimeconfig.json
+D:\Documentos\Github\Prototypes\Debug\bin\Debug\net9.0\Debug.dll
+D:\Documentos\Github\Prototypes\Debug\bin\Debug\net9.0\Debug.pdb
+D:\Documentos\Github\Prototypes\Debug\obj\Debug\net9.0\Debug.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Github\Prototypes\Debug\obj\Debug\net9.0\Debug.AssemblyInfoInputs.cache
+D:\Documentos\Github\Prototypes\Debug\obj\Debug\net9.0\Debug.AssemblyInfo.cs
+D:\Documentos\Github\Prototypes\Debug\obj\Debug\net9.0\Debug.csproj.CoreCompileInputs.cache
+D:\Documentos\Github\Prototypes\Debug\obj\Debug\net9.0\Debug.sourcelink.json
+D:\Documentos\Github\Prototypes\Debug\obj\Debug\net9.0\Debug.dll
+D:\Documentos\Github\Prototypes\Debug\obj\Debug\net9.0\refint\Debug.dll
+D:\Documentos\Github\Prototypes\Debug\obj\Debug\net9.0\Debug.pdb
+D:\Documentos\Github\Prototypes\Debug\obj\Debug\net9.0\Debug.genruntimeconfig.cache
+D:\Documentos\Github\Prototypes\Debug\obj\Debug\net9.0\ref\Debug.dll
